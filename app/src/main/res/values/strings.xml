@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Game Timer</string>
+    <string name="noinput">Please enter a number</string>
 </resources>
